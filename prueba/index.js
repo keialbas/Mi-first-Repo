@@ -9,7 +9,7 @@ for(i =0; i<numbers.length-1; i++){
     }
     else{
         console.log(numbers[i]+"="+count)
-        count =1
+        count =12
     }
 
 }
